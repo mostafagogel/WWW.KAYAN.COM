@@ -1,3 +1,1 @@
 
-
-.KAYAN.COM
